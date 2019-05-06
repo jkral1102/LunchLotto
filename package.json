@@ -17,7 +17,7 @@
     "project",
     "decisions"
   ],
-  "author": "The Blue Barracudas",
+  "author": "Jennifer Kral",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/txbikeguy/LunchLotto/issues"
@@ -28,7 +28,7 @@
     "express": "^4.16.3",
     "mysql": "^2.15.0",
     "mysql2": "^1.5.3",
-    "pg": "^7.4.1",
+    "pg": "^7.10.0",
     "sequelize": "^4.37.4"
   }
 }

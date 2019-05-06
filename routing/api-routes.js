@@ -6,7 +6,7 @@
 // =============================================================
 // Requiring our models
 var models = require('../models');
-var db = require("../models/lunch.js");
+var db = require("../models");
 var express = require('express');
 // Routes
 // =============================================================
